@@ -1,2 +1,4 @@
 # vite-fruit
-vue简易水果商城案例
+简单vite项目水果商城功能
+
+use "npm run dev" to start
